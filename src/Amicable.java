@@ -5,8 +5,8 @@ public class Amicable
 
     public Amicable(int firstNum, int secondNum)
     {
-        firstNum = this.firstNum;
-        secondNum = this.secondNum;
+        this.firstNum = firstNum;
+        this.secondNum = secondNum;
     }
 
     public int getFirstNum()
